@@ -1,0 +1,10 @@
+Khởi tạo :
+
+npm create vite@latest . -- --template react
+npm install
+npm install @supabase/supabase-js
+npm run dev
+
+git add .
+git commit -m "feat: initialize Material Status Dashboard"
+git push
